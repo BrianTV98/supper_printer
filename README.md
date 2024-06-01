@@ -24,4 +24,6 @@
 - Image
 - Barcode
 - QRCODE 
-# supper_printer
+# Liên hệ: 
+ Zalo/Phone: +840335286360
+ Email: tranhieuglpk@gmail.com
